@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>page54_failedtoload_image</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="48" height="48"></rect>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Apple-TV" transform="translate(-261.000000, -1467.000000)">
+            <g id="icon/image" transform="translate(261.000000, 1467.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="未上传" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <path d="M-14.7692308,48 L8.5458537,23.1305766 C10.8122352,20.7131029 14.6092501,20.5906186 17.0267237,22.8570001 C17.1208331,22.9452276 17.2120726,23.0364672 17.3003001,23.1305766 L30.7827692,37.5122038 L39.7533123,29.2607988 C41.2841471,27.8524309 43.6389299,27.8524309 45.1697646,29.2607988 L65.5384615,48 L-14.7692308,48 Z" id="形状结合" fill="#E5EAF0" mask="url(#mask-2)"></path>
+                <path d="M40.6153846,11.0769231 C40.6153846,9.03771796 38.9622823,7.38461538 36.9230769,7.38461538 C34.8838716,7.38461538 33.2307692,9.03771796 33.2307692,11.0769231 C33.2307692,13.1161282 34.8838716,14.7692308 36.9230769,14.7692308 C38.9622823,14.7692308 40.6153846,13.1161282 40.6153846,11.0769231 Z" id="Oval" fill="#DFE4EA" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
